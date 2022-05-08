@@ -1,0 +1,178 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(32, 32, 32);
+    font-weight: bold;
+    color: white;
+}
+
+.box{
+    width: 300px;
+    height: 305px;
+    margin: -3px;
+    background-color: rgb(64, 64, 64);
+    border-radius: 8px;
+}
+
+.box_help{
+    width: 300px;
+    height: 236px;
+    margin: -3px;
+    background-color: rgb(64, 64, 64);
+    border-radius: 8px;
+    font-size: 0.8rem;
+}
+
+.image_box{
+    width: 226px;
+    height: 293px;
+    position:fixed;
+    top: 10px;
+    left: 41px;
+}
+
+.input_1{
+    width: 70px;
+    position: fixed;
+    top: 175px;
+    left: 10px;
+    border-radius: 4px;
+    color: white;
+    background-color: rgb(110, 110, 110);
+}
+
+.text_1{
+    position: fixed;
+    top: 140px;
+    left: 27px;
+    border-radius: 4px;
+    border: 2px solid black;
+    color: white;
+    background-color: rgb(86, 86, 86);
+}
+
+.input_2{
+    width: 70px;
+    position:fixed;
+    top: 165px;
+    left: 115px;
+    border-radius: 4px;
+    color: white;
+    background-color: rgb(110, 110, 110);
+}
+
+.text_2{
+    position: fixed;
+    top: 130px;
+    left: 121px;
+    border-radius: 4px;
+    border: 2px solid black;
+    color: white;
+    background-color: rgb(86, 86, 86);
+}
+
+.input_3{
+    width: 70px;
+    position:fixed;
+    top: 283px;
+    left: 95px;
+    border-radius: 4px;
+    color: white;
+    background-color: rgb(110, 110, 110);
+}
+
+.text_3{
+    position: fixed;
+    top: 248px;
+    left: 110px;
+    border-radius: 4px;
+    border: 2px solid black;
+    color: white;
+    background-color: rgb(86, 86, 86);
+}
+
+.input_4{
+    width: 70px;
+    position: fixed;
+    top: 30px;
+    left: 10px;
+    border-radius: 4px;
+    color: white;
+    background-color: rgb(110, 110, 110);
+}
+
+.text_4{
+    position: fixed;
+    top: -5px;
+    left: 31px;
+    border-radius: 4px;
+    border: 2px solid black;
+    color: white;
+    background-color: rgb(86, 86, 86);
+}
+
+.input_5{
+    width: 70px;
+    position:fixed;
+    top: 283px;
+    left: 205px;
+    border-radius: 4px;
+    color: white;
+    background-color: rgb(110, 110, 110);
+}
+
+.text_5{
+    position: fixed;
+    top: 248px;
+    left: 224px;
+    border-radius: 4px;
+    border: 2px solid black;
+    color: white;
+    background-color: rgb(86, 86, 86);
+}
+
+.button{
+    margin: 10px;
+    position:relative;
+    border-radius: 4px;
+    border: 2px solid green;
+    color: white;
+    background-color: rgb(86, 86, 86);
+    left: 92px;
+}
+
+.help{
+    margin: 10px;
+    position:fixed;
+    top: -3px;
+    left: 224px;
+    border-radius: 4px;
+    border: 2px solid blue;
+    color: white;
+    background-color: rgb(86, 86, 86);
+}
+
+.clear{
+    margin: 10px;
+    position:relative;
+    left: 82px;
+    border-radius: 4px;
+    border: 2px solid red;
+    color: white;
+    background-color: rgb(86, 86, 86);
+}
+
+.error_text{
+    font-size: 1rem;
+    background-color: red;
+    border-radius: 8px;
+    margin: 10px;
+    color: white;
+}
+
+.finish_text{
+    font-size: 2rem;
+    background-color: green;
+    border-radius: 8px;
+    border: 2px solid black;
+    color: white;
+}
